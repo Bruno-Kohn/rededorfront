@@ -46,8 +46,8 @@ const Container = styled.div`
   background: linear-gradient(
     90deg,
     rgba(1, 174, 165, 0.5) 0%,
-    rgba(247, 53, 119, 0.5) 50%,
-    rgba(83, 45, 129, 0.5) 100%
+    rgba(247, 53, 19, 0.5) 50%,
+    rgba(83, 45, 12, 0.5) 100%
   );
   display: flex;
   flex-direction: column;
@@ -87,5 +87,6 @@ const Card = styled.div`
 
   h1 {
     margin: 10px;
+    font-size: 18px;
   }
 `;
